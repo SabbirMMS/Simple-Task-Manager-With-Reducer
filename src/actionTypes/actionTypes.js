@@ -1,0 +1,7 @@
+export const actionsTypes = {
+  ADD_TASK: "ADD_TASK",
+  DELETE_TASK: "DELETE_TASK",
+  CHANGE_TASK: "CHANGE_TASK",
+  INCREMENT: "INCREMENT",
+  DECREMENT: "DECREMENT",
+};
